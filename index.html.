@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfólio profissional de Emilly Andrade - Escritora premiada e especialista multidisciplinar">
+    <title>Emilly Andrade - Portfólio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 2em 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        header p {
+            margin: 0.5em 0 1em;
+            font-size: 1.2em;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2em;
+        }
+
+        nav ul {
+            display: flex;
+            justify-content: center;
+            list-style-type: none;
+            background-color: #333;
+            padding: 0;
+            margin: 0;
+        }
+
+        nav ul li {
+            margin: 0;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            padding: 1em;
+            display: block;
+        }
+
+        nav ul li a:hover {
+            background-color: #4CAF50;
+        }
+
+        section {
+            margin-bottom: 2em;
+        }
+
+        h2 {
+            color: #4CAF50;
+            margin-bottom: 1em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #333;
+            color: white;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            padding: 0.8em 1.5em;
+            border-radius: 5px;
+            font-size: 1em;
+            margin-top: 1em;
+        }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+
+        ul {
+            padding: 0;
+            list-style: none;
+        }
+
+        ul li {
+            margin-bottom: 0.5em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Emilly Andrade</h1>
+        <p>Escritora Premiada | Profissional Multidisciplinar | Especialista em Conexões Humanas</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#habilidades">Habilidades</a></li>
+            <li><a href="#projetos">Projetos</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="sobre" class="container">
+            <h2>Sobre Mim</h2>
+            <p>Sou Emilly Andrade, uma profissional multidisciplinar com um portfólio que abrange conquistas literárias, organização administrativa e cuidado humano. Meu compromisso com a excelência me levou a vencer concursos literários e a me destacar como uma especialista em conectar pessoas a soluções criativas e eficientes.</p>
+        </section>
+
+        <section id="habilidades" class="container">
+            <h2>Habilidades</h2>
+            <ul>
+                <li>Produção de textos premiados e conteúdos técnicos.</li>
+                <li>Gestão eficiente de processos administrativos.</li>
+                <li>Criação de experiências humanas transformadoras.</li>
+                <li>Domínio de tecnologias básicas, como Excel e sistemas administrativos.</li>
+            </ul>
+        </section>
+
+        <section id="projetos" class="container">
+            <h2>Projetos</h2>
+            <ul>
+                <li>Autoria de textos publicados em antologias de destaque.</li>
+                <li>Implementação de sistemas administrativos em secretariado.</li>
+                <li>Desenvolvimento de campanhas educativas para humanização do atendimento.</li>
+            </ul>
+        </section>
+
+        <section id="contato" class="container">
+            <h2>Contato</h2>
+            <p>Conecte-se comigo para explorar parcerias e projetos!</p>
+            <ul>
+                <li><strong>Telefone:</strong> (74) 98105-5232</li>
+                <li><strong>E-mail:</strong> andradeemilly29@gmail.com</li>
+                <li><strong>LinkedIn:</strong> <a href="#">linkedin.com/in/emillyandrade</a></li>
+            </ul>
+            <a href="mailto:andradeemilly29@gmail.com" class="btn">Envie um E-mail</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Emilly Andrade. Transformando conexões em resultados extraordinários.</p>
+    </footer>
+</body>
+  </html>
